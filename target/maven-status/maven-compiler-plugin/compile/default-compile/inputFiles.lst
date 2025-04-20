@@ -1,0 +1,10 @@
+C:\Users\emann\Desktop\projects\Spring-Mapper-and-MapStruct-master\src\main\java\com\example\DTO\s\Application.java
+C:\Users\emann\Desktop\projects\Spring-Mapper-and-MapStruct-master\src\main\java\com\example\DTO\s\controller\UserController.java
+C:\Users\emann\Desktop\projects\Spring-Mapper-and-MapStruct-master\src\main\java\com\example\DTO\s\dto\UserLocation.java
+C:\Users\emann\Desktop\projects\Spring-Mapper-and-MapStruct-master\src\main\java\com\example\DTO\s\dto\UserRequestDto.java
+C:\Users\emann\Desktop\projects\Spring-Mapper-and-MapStruct-master\src\main\java\com\example\DTO\s\model\Location.java
+C:\Users\emann\Desktop\projects\Spring-Mapper-and-MapStruct-master\src\main\java\com\example\DTO\s\model\User.java
+C:\Users\emann\Desktop\projects\Spring-Mapper-and-MapStruct-master\src\main\java\com\example\DTO\s\ModelMapper\ModelConfig.java
+C:\Users\emann\Desktop\projects\Spring-Mapper-and-MapStruct-master\src\main\java\com\example\DTO\s\repository\LocationRepository.java
+C:\Users\emann\Desktop\projects\Spring-Mapper-and-MapStruct-master\src\main\java\com\example\DTO\s\repository\UserRepository.java
+C:\Users\emann\Desktop\projects\Spring-Mapper-and-MapStruct-master\src\main\java\com\example\DTO\s\service\UserService.java
