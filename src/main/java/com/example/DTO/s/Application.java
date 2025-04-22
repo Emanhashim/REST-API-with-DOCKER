@@ -21,39 +21,5 @@ public class Application  {
 		SpringApplication.run(Application.class, args);
 	}
 
-//	@Autowired
-//	private UserRepository userRepository;
-//
-//	@Autowired
-//	private LocationRepository locationRepository;
-//
-//	@Override
-//	public void run(String... args) throws Exception {
-//
-//		Location location = new Location();
-//		location.setPlace( "newyork");
-//		location.setDescription("noce view");
-//		location.setLongitude(30.8);
-//		location.setLatitude(78.0);
-//		locationRepository.save(location);
-//
-//
-//
-//		User user = new User();
-//		user.setEmail("userq@gmail.com");
-//		user.setPassword("secret");
-//		user.setFirstName("eman");
-//		user.setLastName("hannan");
-//		user.setLocation(location);
-//		userRepository.save(user);
-//
-//
-//		User user2 = new User();
-//		user2.setEmail("user2@gmail.com");
-//		user2.setPassword("secretuser");
-//		user2.setFirstName("lemi");
-//		user2.setLastName("harpa");
-//		user2.setLocation(location);
-//		userRepository.save(user2);
-//	}
+
 }
